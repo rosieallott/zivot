@@ -9,9 +9,7 @@ title: Privacy Policy
 
 If you do not agree to the following policy you may refrain from submitting your personal data to us or get in contact by the contact details below.
 
-In the context of General Data Protection Regulation, the Data Controller is:
-Zivot IO Ltd
-Company number 12250000
+In the context of General Data Protection Regulation, the Data Controller is: **Zivot IO Ltd**. Company number 12250000.
 
 ## Highlights of this Policy
 
@@ -64,10 +62,10 @@ Some cookies are required to enjoy and use the full functionality of a website. 
 We ensure the security of any personal information we hold by using secure data storage technologies and precise procedures in how we store, access and manage that information. Our methods meet the GDPR compliance requirement.
 
 ## Resources & further information
-[Overview of the GDPR - General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/)
-[Data Protection Act 2018](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
-[Google Privacy Policy](http://www.google.com/privacy.html)
-[Linkedin Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
+* [Overview of the GDPR - General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/)
+* [Data Protection Act 2018](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
+* [Google Privacy Policy](http://www.google.com/privacy.html)
+* [Linkedin Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
 
 
 ## Contact
